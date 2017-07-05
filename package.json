@@ -1,5 +1,5 @@
 {
-  "name": "utils",
+  "name": "robfisher-utils",
   "version": "1.0.0",
   "description": "a utility library",
   "main": "index.js",
